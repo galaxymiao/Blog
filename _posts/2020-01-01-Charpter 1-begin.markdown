@@ -14,4 +14,4 @@ Charpter 1
 
 Begin
 
-![20200101](/Blog/media/files/2020/1/1/20200101.jpeg)
+![20200101](/media/files/2020/1/1/20200101.jpeg)

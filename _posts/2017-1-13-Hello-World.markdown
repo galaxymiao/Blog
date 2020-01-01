@@ -6,7 +6,7 @@ tags:
   - sunnyday
 ---
 
-![cloud](/Blog/media/files/2017/1/13/cloud.jpeg)
+![cloud](/media/files/2017/1/13/cloud.jpeg)
 
 Hello World!
 
