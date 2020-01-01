@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Shelter</title>
- <link href="http://galaxymiao.github.io/blog/atom.xml" rel="self"/>
- <link href="http://galaxymiao.github.io/blog"/>
- <updated>2017-01-13T14:46:12+08:00</updated>
- <id>http://galaxymiao.github.io/blog</id>
+ <link href="http://galaxymiao.com/atom.xml" rel="self"/>
+ <link href="http://galaxymiao.com"/>
+ <updated>2017-01-13T15:00:32+08:00</updated>
+ <id>http://galaxymiao.com</id>
  <author>
    <name>Emilo</name>
  </author>
@@ -13,7 +13,7 @@
  
  <entry>
    <title>新的开始</title>
-   <link href="http://galaxymiao.github.io/blog/2017/01/13/Hello-World.html"/>
+   <link href="http://galaxymiao.com/2017/01/13/Hello-World.html"/>
    <updated>2017-01-13T00:00:00+08:00</updated>
    <id>urn:uuid:8a9f4073-d0cc-41f2-b3ba-db1d2332f837</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/media/files/2017/1/13/cloud.jpeg&quot; alt=&quot;cloud&quot; /&gt;&lt;/p&gt;
@@ -22,10 +22,10 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;有了建博客的想法的时候，开始疯狂的折腾教程。&lt;br/&gt;
-取了blog的名字叫shelter，应用了这个主题，很喜欢&lt;br/&gt;
-在shelter里，想分享自己的学习，生活&lt;br/&gt;
-去支教了两年，原以为自己会变得坚强起来，事实却是有点...&lt;/p&gt;
+&lt;p&gt;有了建博客的想法的时候，开始疯狂的折腾教程。&lt;br /&gt;
+取了blog的名字叫shelter，应用了这个主题，很喜欢&lt;br /&gt;
+在shelter里，想分享自己的学习，生活&lt;br /&gt;
+去支教了两年，原以为自己会变得坚强起来，事实却是有点…&lt;/p&gt;
 
 &lt;p&gt;不管怎么说，这是一个新的开始！&lt;/p&gt;
 

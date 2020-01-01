@@ -1,12 +1,13 @@
 ---
 title: 新的开始
-layout: post 
+layout: post
+guid: urn:uuid:8a9f4073-d0cc-41f2-b3ba-db1d2332f837
 tags:
   - firstgreating
   - sunnyday
 ---
 
-![cloud](/Users/Emilo/Documents/Blog/media/files/2017/1/13/cloud.jpeg)
+![cloud](/media/files/2017/1/13/cloud.jpeg)
 
 Hello World!
 
@@ -20,5 +21,3 @@ Hello World!
 不管怎么说，这是一个新的开始！
 
 2017年1月
-
-待续
