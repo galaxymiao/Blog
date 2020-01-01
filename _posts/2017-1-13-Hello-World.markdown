@@ -1,13 +1,12 @@
 ---
 title: 新的开始
 layout: post
-guid: urn:uuid:8a9f4073-d0cc-41f2-b3ba-db1d2332f837
 tags:
   - firstgreating
   - sunnyday
 ---
 
-![cloud](/Users/Emilo/Documents/Blog/media/files/2017/1/13/cloud.jpeg)
+![cloud](/Blog/media/files/2017/1/13/cloud.jpeg)
 
 Hello World!
 
