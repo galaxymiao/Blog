@@ -1,18 +1,18 @@
 ---
-title: Charpter 1 「01」
+title: Charpter 1 「02」
 layout: post
 guid: urn:uuid:8a9f4073-d0cc-41f2-b3ba-db1d2332f837
 tags:
-  - Thu
+  - Fri
   - Cloudy
 
 ---
 
-「01」
+「02」
 
 ------
 
-/< 没事 没事 没事...
+/< 我给你讲个故事吧
 
 
 
